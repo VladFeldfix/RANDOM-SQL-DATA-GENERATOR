@@ -1,5 +1,4 @@
-<body style="font-family:courier-new;">
-    <h1>DB-RANDOM-DATA-GENERATOR</h1>
+<h1>DB-RANDOM-DATA-GENERATOR</h1>
     <h2>Introduction:</h2>
     <p>
         This simple script generates random entries to fill your database<br>
@@ -64,4 +63,3 @@
     example1.txt (To activate rename it to script.txt)<br>
     example2.txt (To Activate rename it to script.txt)<br>
     </p>
-</body>
