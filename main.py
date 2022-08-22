@@ -179,7 +179,7 @@ class table:
             if i == 0:
                 file.write("INSERT INTO "+self.table_name+str(tuple(self.headers)).replace("'", "`")+" VALUES\n")
                 endian = ","
-            if i < 1000:
+            if i < 900:
                 i += 1
             else:
                 i = 0
